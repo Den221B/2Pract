@@ -1,4 +1,5 @@
 import psycopg2
+import time
 import re
 import html
 from collections import Counter
